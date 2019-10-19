@@ -17,3 +17,5 @@ Android Program
 Web Server Program 
 
 - GPS 정보 전송
+
+카카오 map api 사용 (일 600,000 건 검색 무료)
