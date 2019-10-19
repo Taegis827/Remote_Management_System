@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "890087977992",
+    "firebase_url": "https://remotefcm-d2f81.firebaseio.com",
+    "project_id": "remotefcm-d2f81",
+    "storage_bucket": "remotefcm-d2f81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890087977992:android:0f1d781a270a42a8278dbd",
+        "android_client_info": {
+          "package_name": "com.example.remote_m"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890087977992-gr61i1u7nktlrld7pc67bc6bq5ggonkl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.remote_m",
+            "certificate_hash": "5f119ea2e50b1e91ba554418ee4486f13214232c"
+          }
+        },
+        {
+          "client_id": "890087977992-jmre95m3h3409kbfvue7ha9h698mripd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPuPZjG_11HqNE2GP6G2l-t1u_-aKSwPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890087977992-jmre95m3h3409kbfvue7ha9h698mripd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
